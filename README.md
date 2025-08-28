@@ -1,5 +1,3 @@
-# 2nd_paper_license_plate_reader_single_tpu
-
 # Real-Time License Plate Recognition Using YOLOv8n and Coral Edge TPU
 
 > 실시간 객체 탐지 및 번호판 인식을 위한 Edge AI 시스템  
