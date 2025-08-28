@@ -1,0 +1,16 @@
+numpy==1.26.4
+pandas==2.2.3
+opencv-python==4.10.0.84
+pillow==11.0.0
+matplotlib==3.9.2
+tqdm==4.67.0
+seaborn==0.13.2
+rich==13.9.4
+ultralytics==8.3.31
+ultralytics-thop==2.0.11
+torch==2.0.1
+torchvision==0.15.2
+torchaudio==2.0.2
+tflite-runtime==2.5.0.post1
+pycoral==2.0.0
+edge-tpu-silva==1.0.5
